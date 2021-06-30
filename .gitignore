@@ -1,11 +1,3 @@
-node_modules
-.DS_Store
-dist
-dist-ssr
-*.local
-# Local Netlify folder
-.netlify
-
 # Logs
 logs
 *.log
